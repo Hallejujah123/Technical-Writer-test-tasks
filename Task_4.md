@@ -1,7 +1,7 @@
 # Description of the Ozon Android App Page: Shopping Cart
 
 ## Overview
-This screenshot represents the shopping cart page from the Ozon Android app. Page is designed to allow users to review their selected items, make adjustments to their cart and proceed to checkout. 
+This [screenshot](https://github.com/Hallejujah123/Technical-Writer-test-tasks/blob/main/ozon_screenshot.jpg) represents shopping cart page from the Ozon Android app. Page is designed to allow users to review their selected items, make adjustments to cart and proceed to checkout. 
 
 ## Components
 
